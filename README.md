@@ -7,9 +7,9 @@ In a Institute there are multiple Batches and each batch has a predefined course
 
 ## Key features
 ### 1. Batches setup
-Create 2 database for batches and students.
-Add grading function generally use in educatioin system.
-Write a function to add courses to a batch with error messages like Enter "❌ No valid courses provided,❌ both batch name and courses" etc.
+1.1. Create 2 database for batches and students.
+1.2. Add grading function generally use in educatioin system.
+1.3. Write a function to add courses to a batch with error messages like Enter "❌ No valid courses provided,❌ both batch name and courses" etc.
 
 ### 2. Enter scores
 Under a student name with batch name enter scores for each courses.
